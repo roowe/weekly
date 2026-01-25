@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "mcp__jina__search_web"
+      "mcp__jina__search_web",
+      "mcp__jina__parallel_read_url",
+      "Bash(:2025-ResearchAndDevelopmentprojectsreadingweeklynotes:*)",
+      "WebFetch(domain:danwang.co)"
     ]
   }
 }
