@@ -22,6 +22,24 @@
 
 ## 📚 已记录内容
 
+### 第381期：中国 AI 大模型领导者在想什么 (2026-01-11)
+
+#### [★] AGI-Next峰会发言实录分析
+- **位置**: [issue-381.md:26-26](docs/issue-381.md#L26-L26) - 发言实录链接
+- **摘要**: 记录了清华大学AGI-Next前沿峰会上中国顶尖AI领导者（唐杰、杨植麟、林俊旸、姚顺雨）对大模型和中国AI发展的深入讨论，涵盖范式转变、技术路线、市场观察和未来展望
+- **思考/行动**: 发言实录链接为 https://www.53ai.com/news/LargeLanguageModel/2026011069524.html，包含4万余字详细记录，值得深入研读
+
+#### [★] 技术文章：用PostgreSQL替代Redis的实践
+- **位置**: [issue-381.md:214-214](docs/issue-381.md#L214-L214) - 原文链接 https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942
+- **摘要**: 作者分享如何用PostgreSQL完全替代Redis，实现缓存、发布订阅、任务队列等功能，不仅简化架构，而且在组合操作中性能更快，每月节省约100美元
+- **思考/行动**: 深入分析UNLOGGED表格、LISTEN/NOTIFY、SKIP LOCKED等PostgreSQL特性，评估在自己的项目中是否有类似的优化机会
+
+#### [✓] 开发工具：CC Switch - AI编码工具统一管理平台
+- **位置**: [issue-381.md:309-309](docs/issue-381.md#L309-L309) - GitHub链接 https://github.com/farion1231/cc-switch
+- **摘要**: 跨平台桌面全能助手，统一管理Claude Code、Codex、Gemini CLI等AI编码工具，提供MCP服务器管理、Skills扫描、Prompts预设等核心功能，采用SQLite+JSON双层架构
+- **思考/行动**: 看起来非常适合管理多个AI工具配置，值得试用评估，特别是MCP统一管理和Skills自动扫描功能
+
+
 ### 第382期：独立软件的黄昏 (2026-01-25)
 
 #### [★] 技术文章：使用Pandoc生成静态网站
@@ -63,5 +81,5 @@
 
 ---
 
-*最后更新: 2026-01-25*
+*最后更新: 2026-01-25 (添加第381期Redis替代文章和CC Switch工具)*
 *创建者: Claude Code*
