@@ -35,24 +35,17 @@
 - **摘要**: 极简教学版 AI 编程助手（TUI），参考 Claude Code 的交互形态，用更少的代码把核心机制讲清楚：工具调用、事件驱动 UI、子代理与 MCP。已实现基础 Coding 能力、子代理、MCP 支持和 Textual TUI 体验
 - **思考/行动**: 这是一个很好的学习项目，通过极简实现展示了 AI 编程助手的核心机制。可以用来学习 AI 编程助手的内部原理，特别是工具调用、事件驱动 UI、子代理与 MCP 等核心概念
 
----
+### 第372期 (2025-12-25之前)
 
-## 📝 快速记录模板
+#### [→] 开源项目：Paper Burner X - PDF 处理工具
+- **位置**: [issue-372.md:311-311](docs/issue-372.md#L311-L311) - GitHub 链接 https://github.com/Feather-2/paper-burner-x
+- **摘要**: 待补充
+- **思考/行动**: 了解它的文本处理方案。
 
-```markdown
-### [标记] 标题
-- **位置**: [文件名:行号范围](文件路径#L起始行-L结束行)
-- **摘要**:
-- **思考/行动**:
-```
+### 第374期 (2025-12-25之前)
 
-### 使用提示
-1. 阅读时随时在此文件中添加感兴趣的内容
-2. 下次总结时告诉LLM："请优先总结 `reading-notes.md` 中标记的内容"
-3. 可指定特定标记，如："重点关注 [★] 和 [→] 的内容"
-4. 定期回顾已标记内容，更新状态（如将 [→] 改为 [✓]）
+#### [★] 学习资源：强化学习的数学基础
+- **位置**: [issue-374.md:255-255](docs/issue-374.md#L255-L255) - GitHub 链接 https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning
+- **摘要**: 《Mathematical Foundations of Reinforcement Learning》开源书籍，系统介绍强化学习的数学基础，适合深入学习 RL 的理论基础。
+- **思考/行动**: 作为强化学习进阶的学习资源，系统掌握 MDP、价值函数、策略梯度等核心概念的数学推导
 
----
-
-*最后更新: 2026-01-25 (添加第381期Redis替代文章和CC Switch工具)*
-*创建者: Claude Code*
